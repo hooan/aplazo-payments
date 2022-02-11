@@ -6,3 +6,10 @@
 
 ### URL
  - [POST] http://localhost:8080/payments
+
+#### Health url
+ - http://localhost:8080/actuator/health
+
+#### H2 Console
+ - http://localhost:8080/h2
+  
